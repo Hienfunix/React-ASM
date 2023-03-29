@@ -1,0 +1,51 @@
+.header {
+    height: 300px;
+    width: 60vw;
+    background-color: rgb(0,53,128);
+    color:white;
+    margin: auto;
+}
+
+.header h1{
+    margin-left: 25px;
+    padding: 0px 0px 15px 0px;
+}
+
+.header p {
+    margin-left: 25px;
+}
+
+.signIn {
+    color:white;
+    background-color: rgb(0,113,194);
+    border: none;
+    height: 38px;
+    margin: 10px 0px 0px 25px;
+    padding: 0px 10px;
+}
+
+.signIn:hover{
+    background-color: rgb(23, 85, 191);
+}
+
+.searchForm{
+    position: relative;
+    top: 110px;
+
+}
+
+.bt {
+    /* position: absolute; */
+    z-index: 1;
+    position: absolute;
+    right: 50px;
+    top: 5px;
+    background-color: rgb(0,113,194);
+    color: white;
+    border:  rgb(0,113,194);
+    padding: 7px;
+}
+
+.bt:hover{
+    background-color: rgb(23, 85, 191);
+}

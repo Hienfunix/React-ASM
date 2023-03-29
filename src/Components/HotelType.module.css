@@ -1,0 +1,33 @@
+.hotelType{
+    position:absolute;
+    width: 60vw;
+    left: 20vw;
+    right: 20vw;
+    top: 370px;
+    /* display: flex;
+    justify-content: space-between; */
+
+}
+
+.hotelType h1{
+    font-size: 1.5rem;
+    font-weight: 800;
+
+}
+
+.hotelDetail{
+    position:absolute;
+    top: 55px;
+    display: flex;
+    justify-content: space-between;
+    width: 60vw;
+}
+.hotelDetail img{
+    width: 10vw;
+    height:150px;
+    border-radius: 5%;
+}
+.hotelDetail h1{
+    font-weight: 700;
+    font-size: 1.2rem;
+}

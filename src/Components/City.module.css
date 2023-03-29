@@ -1,0 +1,41 @@
+.city {
+    width: 60vw;
+    position: absolute;
+    left:20vw;
+    right:20vw;
+    top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.city img{
+    width: 270px ;
+    height: 250px;
+    border-radius: 5%;
+
+}
+
+.cityName{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 150px;
+    margin-left: 1vw;
+    font-size: 35px;
+    font-weight: 500;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.citySubtext{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 200px;
+    margin-left: 1vw;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

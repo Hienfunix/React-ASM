@@ -1,0 +1,29 @@
+.search {
+    position: relative;
+    /* float:left; */
+    height:800px;
+    width: 100vw;
+    margin-top: 20px;
+    display:flex;
+    justify-content:flex-start;
+}
+
+.searchPopup {
+    width:18%;
+    /* display: flex; */
+    margin-left: 15px;
+    background-color: rgb(254,187,2);
+    /* float:left; */
+    border-radius: 3%;
+    padding: 10px;   
+    height: fit-content; 
+    
+}
+.searchList{
+    width:59%;
+    margin-left: 1%;
+        
+
+    /* position: absolute;
+    float:left; */
+}

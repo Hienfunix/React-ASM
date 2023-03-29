@@ -1,0 +1,15 @@
+.footer {
+    list-style-type: none;
+    display:flex;
+    position: absolute;
+    justify-content: space-between;
+    width: 60vw;
+    margin: 20px 20vw;
+    padding: 0;
+    font-size:0.9rem;
+    color: rgb(5, 59, 135);
+}
+
+.footer li {
+    margin-top: 5px;
+}

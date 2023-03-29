@@ -1,0 +1,54 @@
+.hotelList {
+    position:absolute;
+    width:60vw;
+    left:20vw;
+    right:20vw;
+    top: 700px;
+}
+
+.hotelList h1 {
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.hotelListDetail{
+    display:flex;
+    position:absolute;
+    justify-content: space-between;
+    width:60vw;
+    top: 65px;
+}
+
+.hotelListDetail img{
+   
+    width: 14vw;
+    height: 240px;
+    border-radius: 3%;
+}
+
+.hotelListDetail h3{
+    font-size: 1rem;
+    font-weight: 700;
+    text-decoration-line: underline;
+    color:rgb(117,75,163);
+}
+.hotelListDetail p{
+    margin-bottom: 0px;
+}
+.hotelListDetail .price{
+    font-weight: 650;
+    margin-top: 5px;
+}
+
+.hotelListDetail .rate{
+    border: 1px solid rgb(0,53,128);
+    background-color: rgb(0,53,128);
+    color:white;
+    font-size: 0.9rem;
+    padding: 3px;
+    font-weight: bold;
+}
+
+.hotelListDetail div{
+    margin-top: 10px;
+}

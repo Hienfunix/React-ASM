@@ -1,0 +1,37 @@
+.middle{
+    width:60vw;
+    position:relative;
+    left:20vw;
+    right:20vw;
+    color: white;
+    text-align: center;
+    top: 50px;
+    
+}
+
+.middle h1{
+    margin-bottom: 20px;
+}
+
+.middle p{
+    margin-bottom: 20px;   
+}
+
+.subscribeInput input{
+    width: 20vw;
+    height:50px;
+    border-radius: 0.5em;
+}
+
+.bt{
+    height: 50px;
+    margin-left: 10px;
+    background-color: rgb(0,113,194);
+    color: white;
+    border:0px solid rgb(0,113,194);
+    border-radius: 6%;
+}
+
+.bt:hover {
+    background-color: rgb(23, 85, 191);
+}

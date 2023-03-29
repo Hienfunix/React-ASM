@@ -1,0 +1,13 @@
+
+.menu {
+    float:left;
+    margin-top: 12px;
+    margin-left: 1%;
+    padding: 0.5%;
+    list-style-type: none;
+    
+}
+
+.menu.border {
+    border: 1px solid white; 
+}

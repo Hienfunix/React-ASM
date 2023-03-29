@@ -1,0 +1,39 @@
+.header {
+    height: 120px;
+    width: 60vw;
+    background-color: rgb(0,53,128);
+    color:white;
+    margin: auto;
+}
+
+.title {
+    margin-left: 2%;
+    padding-top: 0.6%;
+    float: left;
+}
+
+.login {
+    margin-right: 5px;
+    margin-top: 10px;   
+    margin-left: 10px;
+    color:rgb(0,53,128);
+    border: rgb(0,113,194);
+}
+
+.register {
+    color:rgb(0,53,128);
+    border:rgb(0,113,194)
+}
+.emty{ 
+    clear:both;
+    float:left;
+}
+
+.bt {
+    float:right;
+    width:150px;
+}
+
+.menus{
+    margin-left: 10px;
+}

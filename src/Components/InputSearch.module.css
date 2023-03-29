@@ -1,0 +1,13 @@
+.InSearch {
+    width: 100%;
+    font-family: 'Helvetica', 'FontAwesome', sans-serif;
+    height: 50px;
+    border: 3px solid rgb(254,187,2);
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.dateRange{
+    width:500px;
+    height:500px;
+}
